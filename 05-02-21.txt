@@ -1,0 +1,15 @@
+Review of introduce, -- , --
+
+Vader Sentiment:
+https://github.com/cjhutto/vaderSentiment
+
+Dataset:
+https://www.kaggle.com/ayushggarg/all-trumps-twitter-insults-20152021
+
+GloVe : 
+https://github.com/stanfordnlp/GloVe
+
+https://www.kaggle.com/erikbruin/text-mining-the-clinton-and-trump-election-tweets
+
+BERT:
+https://www.youtube.com/results?search_query=bert+model+training&page&utm_source=opensearch
